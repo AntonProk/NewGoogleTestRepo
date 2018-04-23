@@ -33,6 +33,7 @@ namespace GoogleProjectTest
             wait.Until(ExpectedConditions.ElementIsVisible(By.ClassName("dEOOab")));
 
             Assert.That(googleloginpage.ErrorMessageIsDisplayed, Is.True);
+            PropertyCollection.driver.Close();
         }
     }
 }

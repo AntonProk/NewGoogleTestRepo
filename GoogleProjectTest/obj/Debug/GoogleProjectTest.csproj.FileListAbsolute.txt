@@ -8,3 +8,4 @@ C:\Users\Anton Prokofiev\documents\visual studio 2015\Projects\GoogleProjectTest
 C:\Users\Anton Prokofiev\documents\visual studio 2015\Projects\GoogleProjectTest\GoogleProjectTest\bin\Debug\WebDriver.Support.xml
 C:\Users\Anton Prokofiev\documents\visual studio 2015\Projects\GoogleProjectTest\GoogleProjectTest\obj\Debug\GoogleProjectTest.dll
 C:\Users\Anton Prokofiev\documents\visual studio 2015\Projects\GoogleProjectTest\GoogleProjectTest\obj\Debug\GoogleProjectTest.pdb
+C:\Users\Anton Prokofiev\Documents\Visual Studio 2015\Projects\GoogleProjectTest\GoogleProjectTest\obj\Debug\GoogleProjectTest.csprojResolveAssemblyReference.cache

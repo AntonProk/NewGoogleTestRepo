@@ -35,6 +35,8 @@ namespace GoogleProjectTest
             wait.Until(ExpectedConditions.ElementIsVisible(By.CssSelector(".gb_db.gbii")));
 
             Assert.That(googlepage.AvatarIsPresent, Is.True);
+
+            PropertyCollection.driver.Close();
         }
     }
 }
